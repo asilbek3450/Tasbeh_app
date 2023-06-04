@@ -2,7 +2,7 @@
 
 https://flutlab.io sayti yordamida qilingan Flutter proyekt
 
-## Getting Started
+## Boshlash uchun
 
 Agar bu sizning birinchi Flutter loyihangiz bo'lsa, boshlash uchun bir nechta manbalar:
 
